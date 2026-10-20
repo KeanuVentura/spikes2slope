@@ -1,0 +1,4 @@
+stage,unit_count,excluded
+Unfiltered,99180,0
+Allen default QC,40010,59170
+Allen QC + SNR >= 1,39072,60108
