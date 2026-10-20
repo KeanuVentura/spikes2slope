@@ -1,8 +1,8 @@
-region,total_units,tagged_units,evaluated_sessions,five_or_more_tagged
-LGd,0,0,1,False
-VISal,89,10,1,True
-VISam,76,18,1,True
-VISl,78,8,1,True
-VISp,51,9,1,True
-VISpm,0,0,1,False
-VISrl,75,14,1,True
+region,total_units,tagged_units,evaluated_sessions
+LGd,0,0,1
+VISal,89,10,1
+VISam,76,18,1
+VISl,78,8,1
+VISp,51,9,1
+VISpm,0,0,1
+VISrl,75,14,1
