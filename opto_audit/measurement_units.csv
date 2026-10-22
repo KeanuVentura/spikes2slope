@@ -1,5 +1,0 @@
-field,units,meaning
-waveform_duration,ms,Spike trough-to-peak duration
-firing_rate,spikes/s (Hz),Mean firing rate
-probe_vertical_position,µm,Position along probe
-dorsal_ventral_ccf_coordinate,µm,Atlas coordinate; not cortical depth
