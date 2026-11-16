@@ -1,0 +1,23 @@
+{
+  "interpreter": "/Users/keanuventura/miniforge3/envs/allen_env/bin/python",
+  "packages": {
+    "numpy": "1.23.5",
+    "pandas": "1.5.3",
+    "matplotlib": "3.10.9",
+    "seaborn": "0.13.2",
+    "scipy": "1.10.1",
+    "allensdk": "2.16.2"
+  },
+  "source": "/Volumes/WD_BLACK/Spikes2Slope/opto_results/all_opto_unit_results.csv",
+  "sha256": "8c43ad80a0f960a0ecc43350b2ac072a88acb70448c988a1536973f0128b0ba7",
+  "hardware_cutoff": 789848216,
+  "hardware_source": "kilosortvalidation.ipynb and checkpoint.ipynb session-ID period proxy",
+  "baseline_s": [
+    -0.01,
+    -0.002
+  ],
+  "evoked_s": [
+    0.001,
+    0.009
+  ]
+}
